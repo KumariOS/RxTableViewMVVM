@@ -3,6 +3,8 @@
 //  Created by Ameet on 26/01/18.
 //  Copyright © 2018 amit. All rights reserved.
 
+//Instaled a bot.
+
 import UIKit
 import RxSwift
 import RxCocoa
